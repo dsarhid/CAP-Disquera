@@ -1,0 +1,5 @@
+ID,nombre_nombre,banda_ID,sesion_ID,price,canciones
+9f79b57d-3911-4090-9c0f-f8b633bf72ec,Thriller,784cfc40-38cf-4b22-b4a9-b07f849d0e3a,3f7e69b9-2602-4454-8c8e-20dba3b0344f,100,15
+7ccee202-2bf6-4abc-8321-ae1766604224,Back in Black,3b31c5c2-baec-4f00-8021-0c28a14a0a8f,3e6fcc2b-12ed-444e-91c2-d843ea4473dd,100,14
+9998273d-22fe-4e1b-8d77-ccf9567346d0,The Dark Side Of The Moon,2cc46545-b8fe-485c-b738-63213726d199,099a8dc0-43bc-411c-ba39-84f5bf0a4aee,100,13
+06f640be-506d-4818-802f-b2b92f35959f,The Bodyguard,52b9c8a1-742f-45d8-b4b7-4f0d87dc6630,de1010d6-28a4-4fc2-8884-f7efe8dad7b1,100,12
